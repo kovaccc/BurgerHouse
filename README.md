@@ -2,7 +2,7 @@
 Website showing a prototype of the Burger House restaurant site
 
 ## About
-Simple website that displays a catalog of burgers, drinks, side dishes and more. It also displays a contact form. Simple **HTML elements** such as table, top navigation, links etc. were used. **CSS style language** (classes, id selectors, etc.) are used to stylize the page.
+Simple website that displays a catalog of burgers, drinks, side dishes and more. It also displays a contact form. Simple **HTML elements** such as table, top navigation, links etc. were used. **CSS style language** (classes, id selectors, etc.) is used to stylize the page.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/75457058/109392824-9aeaf000-791e-11eb-80df-cb6091298070.png)
